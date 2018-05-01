@@ -43,7 +43,6 @@
 #include "debug.h"
 
 #ifdef __linux__
-#  define HAVE_AFFINITY 1
 #endif /* __linux__ */
 
 
